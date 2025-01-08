@@ -2,7 +2,7 @@
 
 To do WebSite Application Build With </br>HTML, CSS3, PHP and SQL(Sqlite)</br>
 
-## Screenshoots 📷
+## WebSite Detials  📷
 
 Home | About Us                                                                             | Services                                                                             | Contact 
 ---- |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| ---- |
