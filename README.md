@@ -1,6 +1,6 @@
 ### Basic WebSite Project
 
-To do WebSite Application Build With </br>HTML, CSS3, PHP and SQL(Sqlite)</br>
+To do WebSite Application Build With HTML, CSS3, PHP and SQL(Sqlite)
 
 ## WebSite Detials  📷
 
